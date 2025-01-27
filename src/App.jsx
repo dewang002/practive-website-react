@@ -4,6 +4,9 @@ import Nav from './components/Nav'
 import CompanieSpnsore from './components/CompanieSpnsore'
 import Services from './components/Services'
 import WhyWeTheBest from './components/WhyWeTheBest'
+import Clientes from './components/Clientes'
+import YellowStrip from './components/YellowStrip'
+import Blogs from './components/Blogs'
 
 function App() {
   return (
@@ -13,6 +16,9 @@ function App() {
       <CompanieSpnsore/>
       <Services/>
       <WhyWeTheBest />
+      <Clientes />
+      <YellowStrip />
+      <Blogs/>
     </div>
   )
 }

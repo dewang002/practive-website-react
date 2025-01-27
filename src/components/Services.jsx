@@ -43,7 +43,7 @@ const CardData = [
 
 function Services() {
   return (
-    <div className='flex flex-col justify-center items-center w-full px-24 pt-14 bg-zinc-200 overflow-hidden'>
+    <div className='flex flex-col justify-center items-center w-full px-24 pt-14 overflow-hidden'>
         <div className='flex flex-col justify-center items-center gap-4'>
         <h4 className='text-[#EB8D15]'>WELCOME TO REGISTERKARO.IN</h4>
         <h1 className='font-semibold text-4xl'>Explore Our Services</h1>
